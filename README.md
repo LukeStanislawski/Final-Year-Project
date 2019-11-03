@@ -6,7 +6,7 @@
 
 ## Abstract
 
-Storing medical data in lone databases is inconvenient for both patients and medical professionals, as well as being prone to security risks and error. Doing so also makes collation of large datasets, and therefore research through data mining inherently hard. This project proposes a solution that accommodates for the realities of global distrust and differences of interests. One that recognises that rational choices of the individuals, as well as the importance of their sacrifice. And, one that is sustainable given current limitations of technologies such as blockchain.
+Storing medical data in lone databases is inconvenient for both patients and medical professionals, as well as being prone to security risks and error. Doing so also makes collation of large datasets, and therefore research through data mining inherently hard. This project proposes a solution that accommodates for the realities of global distrust and differing interests. One that recognises that rational choices of the individuals, as well as the importance of their sacrifice. And, one that is sustainable given limitations of technologies such as blockchain.
 
 ## Background and Motivation
 
