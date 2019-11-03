@@ -34,6 +34,14 @@ This not only decreases the practicality of the network, as it requires the syst
 
 How then do we store data in an efficient decentralised manor such that it's validity and integrity can be verified without consuming copious amounts of computing power to maintain it?
 
+## Previous Work
+
+KSI blockchain technology is currently in use by the nation of Estonia to store cryptographic hashes of time stamped data stored on servers in various locations within and outside of the country.[7,8] This is a common approach for handling the access controls or confirming the validity of data without decentralized storage of the data itself. This approach works well under the following assumptions:
+
+1. All the servers used to store data have a common interest
+2. The medical data is adequately backed up elsewhere
+
+While this approach may be possible under a single government, it would be much harder to guarantee the security and integrity of data across international boarders in a truly decentralized system. This is because the blockchain can only prove the time a record was created and the author of said record, and also relies on a central time-stamping server.[8] Any one data silo has the absolute power to control access permissions to the data it holds. Therefore indiscriminate access to standardised data by researchers or the individuals cannot be guaranteed.
 
 ## Aims and Objectives
 
@@ -52,3 +60,5 @@ The key objectives for this project are as follows:
 4. The Economist.  *Rise of the machines*.  2015.
 5. Mandl KD Weitzman ER, Kaci L. *Sharing medical data for health research: The earlypersonal health record experience*.  2010.
 6. Melanie Swan. *Blockchain*. 2015.
+7. Priit Martinson. *Estonia – the Digital Republic Secured by Blockchain*. 2019.
+8. Guardtime-Federal. *https://www.guardtime-federal.com/ksi/*. Accessed 2019.
