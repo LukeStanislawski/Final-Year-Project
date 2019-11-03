@@ -2,7 +2,7 @@
 
 ###### Luke Stanislawski - psyls6@nottingham.edu.cn
 
->This project is being undertaken as part of a final year project of a computer science undergraduate degree at The University of Nottingham Ningbo, China.
+>This project is being undertaken as part of a final year project of a computer science undergraduate degree at The University of Nottingham Ningbo, China. Supervised by Vladimir Brusic, Graham Hutton, Pushpendu Kar.
 
 ## Abstract
 
