@@ -1,4 +1,4 @@
-# Final Year Project
+# Decentralized Storage of Medical Data
 
 ###### Luke Stanislawski - psyls6@nottingham.edu.cn
 
