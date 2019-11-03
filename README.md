@@ -4,6 +4,10 @@
 
 >This project is being undertaken as part of a final year project of a computer science undergraduate degree at The University of Nottingham Ningbo, China.
 
+## Abstract
+
+Storing medical data in lone databases is inconvenient for both patients and medical professionals, as well as being prone to security risks and error. Doing so also makes collation of large datasets, and therefore research through data mining inherently hard. This project proposes a solution that accommodates for the realities of global distrust and differences of interests. One that recognises that rational choices of the individuals, as well as the importance of their sacrifice. And, one that is sustainable given current limitations of technologies such as blockchain.
+
 ## Background and Motivation
 
 The increase in data harvesting and storage in recent years has led to an increase in the widespread development of artificial intelligence systems for statistical analysis and pattern recognition on large datasets for the purpose of improving healthcare. Consequentially, conversations about the trade off between medical research and the privacy rights of the individual have become mainstream.[3]
@@ -39,7 +43,7 @@ How then do we store data in an efficient decentralised manor such that it's val
 KSI blockchain technology is currently in use by the nation of Estonia to store cryptographic hashes of time stamped data stored on servers in various locations within and outside of the country.[7,8] This is a common approach for handling the access controls or confirming the validity of data without decentralized storage of the data itself. This approach works well under the following assumptions:
 
 1. All the servers used to store data have a common interest
-2. The medical data is adequately backed up elsewhere
+2. The medical data is adequately backed up
 
 While this approach may be possible under a single government, it would be much harder to guarantee the security and integrity of data across international boarders in a truly decentralized system. This is because the blockchain can only prove the time a record was created and the author of said record, and also relies on a central time-stamping server.[8] Any one data silo has the absolute power to control access permissions to the data it holds. Therefore indiscriminate access to standardised data by researchers or the individuals cannot be guaranteed.
 
